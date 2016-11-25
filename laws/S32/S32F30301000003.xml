@@ -11,7 +11,7 @@
         犯罪捜査共助規則を次のように定める。
       </p>
     </preamble>
-    <section title="第一章  総則" type="Sho">
+    <section title="第一章　総則" type="Sho">
       <articles number="第一条" title="（目的）">
         <article_item number="第一条">
           この規則は、都道府県警察の行う犯罪の捜査に関し、警察庁と都道府県警察及び都道府県警察相互間における連絡共助を緊密にし、もつて捜査の効率的運営を期することを目的とする。
@@ -28,8 +28,8 @@
         </article_item>
       </articles>
     </section>
-    <section title="第二章  共助の依頼" type="Sho">
-      <section title="第一節  通則" type="Setsu">
+    <section title="第二章　共助の依頼" type="Sho">
+      <section title="第一節　通則" type="Setsu">
         <articles number="第四条" title="（共助の依頼）">
           <article_item number="第四条">
             都道府県警察は、当該都道府県警察の行う犯罪の捜査に関し、他の都道府県警察に対し、共助の依頼（被疑者の逮捕、呼出し若しくは取調べ、盗品等（盗品その他財産に対する罪に当たる行為によつて領得された物をいう。）その他の証拠物の手配、押収、捜索若しくは検証、参考人の呼出し若しくは取調べ、職員の派遣その他の措置を依頼することをいう。以下同じ。）をすることができる。
@@ -45,7 +45,7 @@
           </article_item>
         </articles>
       </section>
-      <section title="第二節  手配等" type="Setsu">
+      <section title="第二節　手配等" type="Setsu">
         <articles number="第五条" title="（緊急事件手配）">
           <article_item number="第五条">
             都道府県警察は、その管轄区域における犯罪の捜査につき、他の都道府県警察に対して緊急の措置を依頼する必要があるときは、緊急事件手配書（犯罪捜査規範（昭和三十二年国家公安委員会規則第二号。以下「規範」という。）別記様式第一号）により、必要な措置を求めるものとする。
@@ -145,7 +145,7 @@
           </article_item>
         </articles>
       </section>
-      <section title="第三節  専門捜査員の派遣" type="Setsu">
+      <section title="第三節　専門捜査員の派遣" type="Setsu">
         <articles number="第十二条" title="（専門重要犯罪の報告）">
           <article_item number="第十二条">
             都道府県警察は、航空機事故、列車事故その他のその捜査に関し専門的な知識若しくは技能又は経験を必要とする重要な事案で警察庁長官（以下「長官」という。）が定めるものに係る犯罪（以下「専門重要犯罪」という。）を認知したとき（第二十六条の二及び第二十六条の三に規定する場合を除く。）は、その旨を速やかに警察庁及び管区警察局に報告しなければならない。
@@ -171,7 +171,7 @@
           </article_item>
         </articles>
       </section>
-      <section title="第四節  補則" type="Setsu">
+      <section title="第四節　補則" type="Setsu">
         <articles number="第十四条" title="（手配等の適正）">
           <article_item number="第十四条">
             第五条から第七条まで及び第十一条に規定する手配又は通報については、その実効を期するため、犯罪の種別、軽重、緊急の度合等に応じ、手配の範囲、種別及び方法を合理的に定め、いやしくも濫用にわたることのないように注意しなければならない。
@@ -211,8 +211,8 @@
         </articles>
       </section>
     </section>
-    <section title="第三章  広域犯罪に係る捜査の連携" type="Sho">
-      <section title="第一節  広域重要犯罪の捜査" type="Setsu">
+    <section title="第三章　広域犯罪に係る捜査の連携" type="Sho">
+      <section title="第一節　広域重要犯罪の捜査" type="Setsu">
         <articles number="第十九条" title="（広域重要犯罪の報告等）">
           <article_item number="第十九条">
             都道府県警察は、数都道府県の地域に関係のある重要な犯罪で長官の定めるもの（以下「広域重要犯罪」という。）を認知したとき（第二十六条の二及び第二十六条の三に規定する場合を除く。）は、その旨を速やかに警察庁及び管区警察局に報告しなければならない。
@@ -304,7 +304,7 @@
           </article_item>
         </articles>
       </section>
-      <section title="第二節  広域組織犯罪等の捜査" type="Setsu">
+      <section title="第二節　広域組織犯罪等の捜査" type="Setsu">
         <articles number="第二十六条の二" title="（広域組織犯罪等の報告等）">
           <article_item number="第二十六条の二">
             都道府県警察は、法第五条第四項第六号に規定する広域組織犯罪その他の事案で同号イに掲げるものに該当すると認められる次に掲げる犯罪があると認めるときは、その旨を速やかに警察庁及び管区警察局に報告しなければならない。
@@ -408,7 +408,7 @@
           </article_item>
         </articles>
       </section>
-      <section title="第三節  広域初動捜査等" type="Setsu">
+      <section title="第三節　広域初動捜査等" type="Setsu">
         <articles number="第二十七条" title="（広域捜査隊の編成等）">
           <article_item number="第二十七条">
             管轄区域が隣接し又は近接する都道府県警察は、法第六十条の二の規定により、境界の周辺の区域における犯罪の初動捜査（事件の発生を認知した段階における捜査一般をいう。）その他犯人を当該区域において発見し検挙するための捜査（以下「広域初動捜査等」という。）を共同して行うため必要があると認めるときは、同条の規定に基づき締結した協定（以下この節において「公安委員会協定」という。）に従つて、当該関係都道府県警察の管轄区域に権限を及ぼすものとする。
